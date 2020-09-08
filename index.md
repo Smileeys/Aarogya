@@ -24,9 +24,6 @@ https://meharima.github.io/WebApplication/
 
 ## Updates on *30.06.2020*
 
-# Video Presentation 
-https://drive.google.com/file/d/1w8F9EIBCSRhaCdUpwywr_XFmVF3TUvRx/view?usp=sharing
-
 # Documentation
 https://docs.google.com/document/d/1alv433NpcmSsteQpbXR5OGWcF-3XErqJuvVmkBET-8g/edit?usp=sharing
 
