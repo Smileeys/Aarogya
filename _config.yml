@@ -1,0 +1,8 @@
+title: Online ambulance booking service
+description: Creating online ambulance booking system using php & mysql
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
